@@ -2,8 +2,8 @@ import asyncio
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-ADMIN_ID = YOUR_TELEGRAM_ID
+BOT_TOKEN = "8291586190:AAHVyRpc7qr-CF2jpSULD1tH1uHj0tgwBq8"
+ADMIN_ID = 8057485206
 
 TEMP_FILES = []
 
